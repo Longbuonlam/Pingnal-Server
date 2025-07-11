@@ -1,4 +1,4 @@
-package com.pignal;
+package com.pingnal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

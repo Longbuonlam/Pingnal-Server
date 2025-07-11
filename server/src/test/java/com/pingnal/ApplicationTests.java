@@ -1,4 +1,4 @@
-package com.pignal;
+package com.pingnal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

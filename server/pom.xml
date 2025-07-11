@@ -8,11 +8,11 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.pignal</groupId>
+	<groupId>com.pingnal</groupId>
 	<artifactId>pingnal-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pingnal-server</name>
-	<description>Pignal</description>
+	<description>Pingnal</description>
 	<url/>
 	<licenses>
 		<license/>
