@@ -1,13 +1,13 @@
-package com.pingnal;
+package com.pingnal.server.pingnal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class PingnalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(PingnalApplication.class, args);
 	}
 
 }

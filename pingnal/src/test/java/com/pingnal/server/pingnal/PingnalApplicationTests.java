@@ -1,10 +1,10 @@
-package com.pingnal;
+package com.pingnal.server.pingnal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class PingnalApplicationTests {
 
 	@Test
 	void contextLoads() {
